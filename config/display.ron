@@ -1,0 +1,9 @@
+/*!
+    @import /amethyst_window/src/config.rs#DisplayConfig
+    DisplayConfig
+*/
+
+(
+  title: "amethyst_hidden-ui-bug",
+  dimensions: Some((500, 500)),
+)
