@@ -1,4 +1,3 @@
-#![feature(drain_filter)]
 use amethyst::{
     assets::{LoaderBundle,DefaultLoader,Loader},
     prelude::*,
